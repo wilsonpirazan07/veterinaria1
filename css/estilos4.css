@@ -1,0 +1,133 @@
+body{
+background: #21D197;
+}
+
+article p {
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	top: 100px;
+	
+	font-family: 'algeraian';
+	
+}
+
+article h1 {
+	position: absolute;
+	font-family: 'algerian';
+	border: solid black 2px;
+}
+
+article{
+	background: back;
+	top:350px;
+	left:40px;
+	position:absolute;
+	height:600px;
+	
+	width:600px;
+
+}
+{}
+header h1  {
+	background:#B3EDD1;
+	width: 1255px;
+	height: 100px;
+	background:#B3EDD1;
+	border: 4px solid black;
+	padding: 40px;;
+	font-family:cursive;
+	font-size: 45px;
+}
+header img{
+	position: absolute;
+	top:40px;
+	left: 700px;
+	height: 90px;
+width: 90px;
+
+}
+
+.botones:hover{
+
+	background:#036A78;
+}
+
+.botones active{
+background: yellow;
+}
+.botones{
+width: 300px;
+margin:0px 2px;
+height: 48px;
+background: #666;
+font-family:'';
+color:white;
+text-align: center;
+float: left;
+line-height: 48px;
+top: 200px;
+font-size: 20px;
+
+}
+form{
+	border: solid 2px;
+width: 250px;
+height: 350px;
+background:#B3EDD1;
+position: absolute;
+right: 50px;
+top: 360px;
+border-radius: 10px;
+border:3px solid-white;
+font-family:'algeraian';
+font-size: 22px;
+
+}
+article #text h1 {
+	top: O px;
+	position: absolute;
+	left: 430px;
+	width: 300px;
+}
+
+article #text p {
+	top: O px;
+	position: absolute;
+	left: 430px;
+	width: 300px;
+}
+article img{
+	height: 180px;
+	width: 18	0px;
+	top: 280px;
+	position: absolute;
+	left: 500px;
+}
+
+h2 img{
+	height: 120px;
+	width: 70	0px;
+	top: 640px;
+	position: absolute;
+	left: 120px;
+}
+footer{
+	border: solid 2px black;
+	position:absolute;
+	margin: 20px auto;
+	width: 600px;
+	height: 100px;
+	top: 790px;
+	right: 500px;
+	background:#B3EDD1;
+	text-align: center;
+	line-height: 40px;
+	color:black;
+	font-family:'tahoma'algeraian,;
+
+}
+
+
+
+	
